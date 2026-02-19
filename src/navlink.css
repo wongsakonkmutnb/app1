@@ -1,18 +1,17 @@
-.nav {
-  background-color: #ced;
-  padding: 7px;
-  text-align: center;
+.nav{
+    background-color: #ced;
+    padding: 7px;
+    text-align: center;
+    margin: 15px;
 }
-.menu {
-  /* For inactive status */
-  color: blue;
-  text-decoration: none;
-  padding: 2px 5px;
+.menu{
+    color: blue;
+    text-decoration: none;
+    padding: 2px 5px;
 }
-.active_menu {
-  /* For active status */
-  color: red;
-  background-color: yellow;
-  text-decoration: none;
-  padding: 2px 5px;
+.active_menu{
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+    padding: 2px 5px;
 }
